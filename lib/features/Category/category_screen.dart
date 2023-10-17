@@ -31,7 +31,7 @@ class _CategoryScreenState extends State<CategoryScreen> {
   Icon search = const Icon(Icons.search);
   Icon cancel = const Icon(Icons.cancel);
   bool clicked = false;
-  bool visible = false;
+  bool visible = true;
   bool articleClicked = false;
   int selectedIndex = 0;
 

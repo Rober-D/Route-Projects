@@ -1,0 +1,14 @@
+{
+  "title" : "تطبيق أخبار",
+  "pick_category" : "أختر التصنيف الذي تهتم به",
+  "sports" : "رياضة",
+  "general" : "عام",
+  "health" : "صحة",
+  "business" : "عمل",
+  "entertainment" : "تسلية",
+  "science" : "علوم",
+  "categories" : "التصنيفات",
+  "settings" : "الضبط",
+  "language" : "اللغة",
+  "articles": "المقالات"
+}

@@ -1,0 +1,14 @@
+{
+  "title" : "News App",
+  "pick_category" : "Pick your category of interest",
+  "sports" : "sports",
+  "general" : "general",
+  "health" : "health",
+  "business" : "business",
+  "entertainment" : "entertainment",
+  "science" : "science",
+  "categories" : "Categories",
+  "settings" : "Settings",
+  "language" : "Language",
+  "articles": "Articles"
+}
